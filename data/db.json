@@ -1,0 +1,90 @@
+[
+  {
+    "id": "4c19bd24-cfac-409d-9d3f-fa86450df20a",
+    "name": "442",
+    "createdBy": "voltigeurct1234@gmail.com",
+    "createdAt": 1770831893435,
+    "expenses": [
+      {
+        "id": "b0018e14-d5b5-416d-9203-875923fd64f7",
+        "title": "2",
+        "amount": 222,
+        "paidBy": "voltigeurct1234@gmail.com",
+        "payerAddress": "0x444ecb81bC64968B47D2669f14562f055D30AE98",
+        "createdAt": 1770831898539,
+        "splitCount": 2
+      }
+    ],
+    "members": [
+      "voltigeurct1234@gmail.com",
+      "cansecilmis20@gmail.com"
+    ],
+    "archived": true
+  },
+  {
+    "id": "d0c498da-51dd-4bf4-a19d-ffc96f3810b4",
+    "name": "444",
+    "createdBy": "cansecilmis20@gmail.com",
+    "createdAt": 1770831734775,
+    "expenses": [
+      {
+        "id": "2ba4ad4d-fcfc-4e5e-9d59-5a6f81d30323",
+        "title": "44",
+        "amount": 44,
+        "paidBy": "cansecilmis20@gmail.com",
+        "payerAddress": "0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd",
+        "createdAt": 1770831738811,
+        "splitCount": 2
+      }
+    ],
+    "members": [
+      "cansecilmis20@gmail.com",
+      "voltigeurct1234@gmail.com"
+    ],
+    "archived": true
+  },
+  {
+    "id": "b9c9e1db-1db8-437a-8235-d49d4ff3dd54",
+    "name": "33",
+    "createdBy": "voltigeurct1234@gmail.com",
+    "createdAt": 1770827066589,
+    "expenses": [
+      {
+        "id": "fe78179a-aa5b-4fe2-b6f1-09d09d3913f2",
+        "title": "22",
+        "amount": 15,
+        "paidBy": "voltigeurct1234@gmail.com",
+        "payerAddress": "0x444ecb81bC64968B47D2669f14562f055D30AE98",
+        "createdAt": 1770831527835,
+        "splitCount": 2
+      }
+    ],
+    "members": [
+      "voltigeurct1234@gmail.com",
+      "cansecilmis20@gmail.com"
+    ],
+    "archived": true
+  },
+  {
+    "id": "cb63f45a-2adc-4887-8168-e80390a1ebff",
+    "name": "777",
+    "createdBy": "voltigeurct1234@gmail.com",
+    "createdAt": 1770826723748,
+    "expenses": [
+      {
+        "id": "8da4d485-7ddd-40a0-b0ba-a1c3c723dffb",
+        "title": "77",
+        "amount": 7,
+        "paidBy": "voltigeurct1234@gmail.com",
+        "payerAddress": "0x444ecb81bC64968B47D2669f14562f055D30AE98",
+        "createdAt": 1770826729184,
+        "splitCount": 2
+      }
+    ],
+    "members": [
+      "voltigeurct1234@gmail.com",
+      "cansecilmis20@gmail.com"
+    ],
+    "archived": true
+  }
+]

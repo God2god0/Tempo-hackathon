@@ -1,0 +1,300 @@
+[2026-02-11T03:56:31.635Z] POST /api/groups action=create "bf18c440-964c-4698-8aee-3a02b6727d34"
+[2026-02-11T03:56:31.636Z] Groups updated successfully 
+[2026-02-11T03:56:36.419Z] POST /api/groups action=delete "bf18c440-964c-4698-8aee-3a02b6727d34"
+[2026-02-11T03:56:36.421Z] Groups updated successfully 
+[2026-02-11T03:56:39.061Z] POST /api/groups action=create "e8eb2647-9248-4a83-92fe-15502c85e3af"
+[2026-02-11T03:56:39.062Z] Groups updated successfully 
+[2026-02-11T03:56:45.067Z] POST /api/groups action=update "e8eb2647-9248-4a83-92fe-15502c85e3af"
+[2026-02-11T03:56:45.068Z] Groups updated successfully 
+[2026-02-11T03:57:04.897Z] POST /api/groups action=update "e8eb2647-9248-4a83-92fe-15502c85e3af"
+[2026-02-11T03:57:04.898Z] Groups updated successfully 
+[2026-02-11T03:57:04.998Z] POST /api/transactions received {"id":"c4c3537e-cb2d-477f-b0c0-54029cf7e3e2","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"50","currency":"USDC","timestamp":1770782224886,"hash":"0xf18ec72b4e87ea18433df2d0de900e4f477df749e3ece2b6fed4fee0e85fc997","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T03:57:04.999Z] Transaction saved successfully "c4c3537e-cb2d-477f-b0c0-54029cf7e3e2"
+[2026-02-11T03:57:26.814Z] POST /api/groups action=update "e8eb2647-9248-4a83-92fe-15502c85e3af"
+[2026-02-11T03:57:26.816Z] Groups updated successfully 
+[2026-02-11T04:00:23.426Z] POST /api/groups action=create "b194331d-578c-4d7f-ac46-16b559c1f4d8"
+[2026-02-11T04:00:23.427Z] Groups updated successfully 
+[2026-02-11T04:00:31.491Z] POST /api/groups action=update "b194331d-578c-4d7f-ac46-16b559c1f4d8"
+[2026-02-11T04:00:31.492Z] Groups updated successfully 
+[2026-02-11T04:00:48.543Z] POST /api/transactions received {"id":"94e0bfcc-0d44-4762-ab65-f6b8e865fe0f","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"6.5","currency":"USDC","timestamp":1770782448531,"hash":"0x0b15a6764491fb1cc9a7a183d43f56bf147e12cce7e52f8f90308ca94ae8f17a","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:00:48.545Z] Transaction saved successfully "94e0bfcc-0d44-4762-ab65-f6b8e865fe0f"
+[2026-02-11T04:00:48.558Z] POST /api/groups action=update "b194331d-578c-4d7f-ac46-16b559c1f4d8"
+[2026-02-11T04:00:48.560Z] Groups updated successfully 
+[2026-02-11T04:01:05.180Z] POST /api/groups action=update "b194331d-578c-4d7f-ac46-16b559c1f4d8"
+[2026-02-11T04:01:05.182Z] Groups updated successfully 
+[2026-02-11T04:03:36.381Z] POST /api/groups action=create "c4406f2a-29d7-4677-9dd6-f012058a655d"
+[2026-02-11T04:03:36.382Z] Groups updated successfully 
+[2026-02-11T04:03:42.911Z] POST /api/groups action=update "c4406f2a-29d7-4677-9dd6-f012058a655d"
+[2026-02-11T04:03:42.912Z] Groups updated successfully 
+[2026-02-11T04:04:11.377Z] POST /api/transactions received {"id":"9783c9ea-de39-49fb-8a1e-da8b147c3dd5","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"61","currency":"USDC","timestamp":1770782651362,"hash":"0x87d863cf80c79eaa6c5e01be685638e359e91a92efec78b113ba7e8f3290dcee","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:04:11.380Z] Transaction saved successfully "9783c9ea-de39-49fb-8a1e-da8b147c3dd5"
+[2026-02-11T04:04:11.395Z] POST /api/groups action=update "c4406f2a-29d7-4677-9dd6-f012058a655d"
+[2026-02-11T04:04:11.398Z] Groups updated successfully 
+[2026-02-11T04:04:32.204Z] POST /api/groups action=update "c4406f2a-29d7-4677-9dd6-f012058a655d"
+[2026-02-11T04:04:32.206Z] Groups updated successfully 
+[2026-02-11T04:06:49.472Z] POST /api/groups action=create "012ab54e-70e6-4afa-ae7d-7387da6d22a8"
+[2026-02-11T04:06:49.473Z] Groups updated successfully 
+[2026-02-11T04:06:52.781Z] POST /api/groups action=delete "012ab54e-70e6-4afa-ae7d-7387da6d22a8"
+[2026-02-11T04:06:52.783Z] Groups updated successfully 
+[2026-02-11T04:06:55.929Z] POST /api/groups action=create "43129799-58b9-49d8-be07-a60f4e221e33"
+[2026-02-11T04:06:55.931Z] Groups updated successfully 
+[2026-02-11T04:07:02.605Z] POST /api/groups action=update "43129799-58b9-49d8-be07-a60f4e221e33"
+[2026-02-11T04:07:02.613Z] Groups updated successfully 
+[2026-02-11T04:07:52.345Z] POST /api/transactions received {"id":"c6b72d54-f913-4c2f-ab2f-937ba0a6683b","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"7","currency":"USDC","timestamp":1770782872337,"hash":"0x43d1644524f775b7e34d0a6a61c33770d125ca9ece54412355fcc3c576aba86f","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:07:52.347Z] Transaction saved successfully "c6b72d54-f913-4c2f-ab2f-937ba0a6683b"
+[2026-02-11T04:07:52.356Z] POST /api/groups action=update "43129799-58b9-49d8-be07-a60f4e221e33"
+[2026-02-11T04:07:52.357Z] Groups updated successfully 
+[2026-02-11T04:08:43.513Z] POST /api/groups action=update "43129799-58b9-49d8-be07-a60f4e221e33"
+[2026-02-11T04:08:43.514Z] Groups updated successfully 
+[2026-02-11T04:18:41.456Z] POST /api/groups action=create "c2f10977-ccfb-4820-9ba8-e72d394676d2"
+[2026-02-11T04:18:41.458Z] Groups updated successfully 
+[2026-02-11T04:18:47.117Z] POST /api/groups action=update "c2f10977-ccfb-4820-9ba8-e72d394676d2"
+[2026-02-11T04:18:47.119Z] Groups updated successfully 
+[2026-02-11T04:19:20.409Z] POST /api/transactions received {"id":"4e4c0de1-97a9-46d8-aac5-22d9758e38d4","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"11.5","currency":"USDC","timestamp":1770783560401,"hash":"0x623a30c14544d44a3f935aebd3e94df4aedac0b192ad6a5db56395d57c0714af","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:19:20.410Z] Transaction saved successfully "4e4c0de1-97a9-46d8-aac5-22d9758e38d4"
+[2026-02-11T04:19:20.419Z] POST /api/groups action=update "c2f10977-ccfb-4820-9ba8-e72d394676d2"
+[2026-02-11T04:19:20.421Z] Groups updated successfully 
+[2026-02-11T04:22:42.475Z] POST /api/groups action=update "c2f10977-ccfb-4820-9ba8-e72d394676d2"
+[2026-02-11T04:22:42.476Z] Groups updated successfully 
+[2026-02-11T04:22:47.808Z] POST /api/groups action=create "ae9d698f-9c09-4370-9c23-09319a2501df"
+[2026-02-11T04:22:47.810Z] Groups updated successfully 
+[2026-02-11T04:22:58.111Z] POST /api/groups action=update "ae9d698f-9c09-4370-9c23-09319a2501df"
+[2026-02-11T04:22:58.112Z] Groups updated successfully 
+[2026-02-11T04:23:14.506Z] POST /api/transactions received {"id":"bc8fb274-7949-457b-8f23-43ed6a3e2816","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"55.5","currency":"USDC","timestamp":1770783794498,"hash":"0x3ed4ad4a61f448237bfd5f7ca44b1455421411c120e83200a062c5c1256ac6f2","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:23:14.507Z] Transaction saved successfully "bc8fb274-7949-457b-8f23-43ed6a3e2816"
+[2026-02-11T04:23:14.516Z] POST /api/groups action=update "ae9d698f-9c09-4370-9c23-09319a2501df"
+[2026-02-11T04:23:14.517Z] Groups updated successfully 
+[2026-02-11T04:23:18.559Z] POST /api/groups action=update "ae9d698f-9c09-4370-9c23-09319a2501df"
+[2026-02-11T04:23:18.561Z] Groups updated successfully 
+[2026-02-11T04:25:07.585Z] POST /api/groups action=create "4fb74df5-b96d-4e81-8a6f-9b9e06f0e270"
+[2026-02-11T04:25:07.586Z] Groups updated successfully 
+[2026-02-11T04:25:13.498Z] POST /api/groups action=update "4fb74df5-b96d-4e81-8a6f-9b9e06f0e270"
+[2026-02-11T04:25:13.499Z] Groups updated successfully 
+[2026-02-11T04:25:32.167Z] POST /api/transactions received {"id":"d65ddb90-19b8-46f1-b63b-7b4fd8cea4b5","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"5.5","currency":"USDC","timestamp":1770783932160,"hash":"0xdb16c2825c7cc422ae2a590850616ab5d11907187a81d3f068a3870ac5bbd43c","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:25:32.169Z] Transaction saved successfully "d65ddb90-19b8-46f1-b63b-7b4fd8cea4b5"
+[2026-02-11T04:25:32.177Z] POST /api/groups action=update "4fb74df5-b96d-4e81-8a6f-9b9e06f0e270"
+[2026-02-11T04:25:32.179Z] Groups updated successfully 
+[2026-02-11T04:25:40.568Z] POST /api/groups action=update "4fb74df5-b96d-4e81-8a6f-9b9e06f0e270"
+[2026-02-11T04:25:40.569Z] Groups updated successfully 
+[2026-02-11T04:29:40.472Z] POST /api/groups action=create "4412c38c-3595-4a69-9e5b-dd325882f628"
+[2026-02-11T04:29:40.474Z] Groups updated successfully 
+[2026-02-11T04:29:50.006Z] POST /api/groups action=update "4412c38c-3595-4a69-9e5b-dd325882f628"
+[2026-02-11T04:29:50.007Z] Groups updated successfully 
+[2026-02-11T04:30:14.815Z] POST /api/transactions received {"id":"ff18a8a8-e921-4d72-95f3-ee7f027c34bc","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"116.5","currency":"USDC","timestamp":1770784214803,"hash":"0xfa5adcb868b2af7be7bacc427dcfc6f01444d76903d0ffb47df84b545f19c9c8","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:30:14.818Z] Transaction saved successfully "ff18a8a8-e921-4d72-95f3-ee7f027c34bc"
+[2026-02-11T04:30:14.826Z] POST /api/groups action=update "4412c38c-3595-4a69-9e5b-dd325882f628"
+[2026-02-11T04:30:14.827Z] Groups updated successfully 
+[2026-02-11T04:34:37.391Z] POST /api/groups action=update "4412c38c-3595-4a69-9e5b-dd325882f628"
+[2026-02-11T04:34:37.396Z] Groups updated successfully 
+[2026-02-11T04:34:54.840Z] POST /api/groups action=create "6f188ee8-1984-439b-9f4e-745ad940221b"
+[2026-02-11T04:34:54.841Z] Groups updated successfully 
+[2026-02-11T04:35:02.256Z] POST /api/groups action=update "6f188ee8-1984-439b-9f4e-745ad940221b"
+[2026-02-11T04:35:02.258Z] Groups updated successfully 
+[2026-02-11T04:35:23.391Z] POST /api/transactions received {"id":"2de95a8b-1be0-434c-8d5b-89bddb221e94","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"7","currency":"USDC","timestamp":1770784523381,"hash":"0x5e6060f19d86ca4a6f9ff30b4ace444fd98ffd44bb004ef47020f16b2a4e43f1","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:35:23.393Z] Transaction saved successfully "2de95a8b-1be0-434c-8d5b-89bddb221e94"
+[2026-02-11T04:35:23.401Z] POST /api/groups action=update "6f188ee8-1984-439b-9f4e-745ad940221b"
+[2026-02-11T04:35:23.403Z] Groups updated successfully 
+[2026-02-11T04:35:24.051Z] POST /api/groups action=update "6f188ee8-1984-439b-9f4e-745ad940221b"
+[2026-02-11T04:35:24.053Z] Groups updated successfully 
+[2026-02-11T04:38:28.864Z] POST /api/groups action=create "24a3486c-902a-48bf-a3e3-447436a6659b"
+[2026-02-11T04:38:28.866Z] Groups updated successfully 
+[2026-02-11T04:38:34.018Z] POST /api/groups action=update "24a3486c-902a-48bf-a3e3-447436a6659b"
+[2026-02-11T04:38:34.019Z] Groups updated successfully 
+[2026-02-11T04:39:03.035Z] POST /api/groups action=update "24a3486c-902a-48bf-a3e3-447436a6659b"
+[2026-02-11T04:39:03.036Z] Groups updated successfully 
+[2026-02-11T04:39:03.134Z] POST /api/transactions received {"id":"fe2bf1f5-3c81-4902-88e7-c4890b0dd7ea","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"611.5","currency":"USDC","timestamp":1770784743022,"hash":"0x8d1d35935a657e8e87a535056f1d53b5d866ea21884d0a8be32e7c97d3266d2d","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:39:03.135Z] Transaction saved successfully "fe2bf1f5-3c81-4902-88e7-c4890b0dd7ea"
+[2026-02-11T04:39:13.404Z] POST /api/groups action=update "24a3486c-902a-48bf-a3e3-447436a6659b"
+[2026-02-11T04:39:13.405Z] Groups updated successfully 
+[2026-02-11T04:41:38.494Z] POST /api/groups action=create "28a22928-a76a-408e-88d1-f9fa73e86048"
+[2026-02-11T04:41:38.496Z] Groups updated successfully 
+[2026-02-11T04:41:46.686Z] POST /api/groups action=update "28a22928-a76a-408e-88d1-f9fa73e86048"
+[2026-02-11T04:41:46.688Z] Groups updated successfully 
+[2026-02-11T04:42:13.583Z] POST /api/transactions received {"id":"cc368381-60f3-4720-ac0e-9c62852d07cb","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"55.5","currency":"USDC","timestamp":1770784933575,"hash":"0x5a6e83b59e166694ff16a64e8792645460f1d79e5889407db9b81b8ce1646c3a","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:42:13.585Z] Transaction saved successfully "cc368381-60f3-4720-ac0e-9c62852d07cb"
+[2026-02-11T04:42:13.594Z] POST /api/groups action=update "28a22928-a76a-408e-88d1-f9fa73e86048"
+[2026-02-11T04:42:13.596Z] Groups updated successfully 
+[2026-02-11T04:42:26.820Z] POST /api/groups action=update "28a22928-a76a-408e-88d1-f9fa73e86048"
+[2026-02-11T04:42:26.822Z] Groups updated successfully 
+[2026-02-11T04:44:27.489Z] POST /api/groups action=create "c30ec0fd-4762-4b0b-ac54-7df70582d320"
+[2026-02-11T04:44:27.490Z] Groups updated successfully 
+[2026-02-11T04:44:36.105Z] POST /api/groups action=update "c30ec0fd-4762-4b0b-ac54-7df70582d320"
+[2026-02-11T04:44:36.107Z] Groups updated successfully 
+[2026-02-11T04:44:56.407Z] POST /api/transactions received {"id":"ad6b285b-e48c-4299-a40d-001bae715d4d","from":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","to":"0x444ecb81bC64968B47D2669f14562f055D30AE98","amount":"83","currency":"USDC","timestamp":1770785096398,"hash":"0x002183ef01d94ce222a9b09bbd42d7f95a266b836b0d54746636d62cfedef7d2","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com"}
+[2026-02-11T04:44:56.408Z] Transaction saved successfully "ad6b285b-e48c-4299-a40d-001bae715d4d"
+[2026-02-11T04:44:56.416Z] POST /api/groups action=update "c30ec0fd-4762-4b0b-ac54-7df70582d320"
+[2026-02-11T04:44:56.417Z] Groups updated successfully 
+[2026-02-11T04:48:24.118Z] POST /api/groups action=update "c30ec0fd-4762-4b0b-ac54-7df70582d320"
+[2026-02-11T04:48:24.119Z] Groups updated successfully 
+[2026-02-11T04:48:31.643Z] POST /api/groups action=create "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:48:31.644Z] Groups updated successfully 
+[2026-02-11T04:48:40.534Z] POST /api/groups action=update "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:48:40.535Z] Groups updated successfully 
+[2026-02-11T04:48:47.661Z] POST /api/groups action=update "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:48:47.662Z] Groups updated successfully 
+[2026-02-11T04:49:01.685Z] POST /api/groups action=update "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:49:01.686Z] Groups updated successfully 
+[2026-02-11T04:49:20.119Z] POST /api/transactions received {"id":"844f1955-6667-465f-b85e-66e5067b6fcb","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"5.5","currency":"USDC","timestamp":1770785360110,"hash":"0xf6a1f80824c6793accc43a9fe6a9aad5d52007eb26ba339f420ca1ceff6df830","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:49:20.121Z] Transaction saved successfully "844f1955-6667-465f-b85e-66e5067b6fcb"
+[2026-02-11T04:49:20.130Z] POST /api/groups action=update "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:49:20.133Z] Groups updated successfully 
+[2026-02-11T04:49:36.019Z] POST /api/groups action=update "b8901a7b-251d-43c4-8702-e477bb0ea0a2"
+[2026-02-11T04:49:36.021Z] Groups updated successfully 
+[2026-02-11T04:53:00.056Z] POST /api/groups action=create "ca6b866c-3648-4e75-8a4d-b8282b9e1df1"
+[2026-02-11T04:53:00.058Z] Groups updated successfully 
+[2026-02-11T04:53:04.927Z] POST /api/groups action=update "ca6b866c-3648-4e75-8a4d-b8282b9e1df1"
+[2026-02-11T04:53:04.929Z] Groups updated successfully 
+[2026-02-11T04:53:37.123Z] POST /api/transactions received {"id":"a336f379-c008-4900-9e5e-8b3ba5c55a8e","from":"0x444ecb81bC64968B47D2669f14562f055D30AE98","to":"0x3D9Cf2Adf91Db2204c659f449E1A6Cfbe1fa6edd","amount":"16.5","currency":"USDC","timestamp":1770785617110,"hash":"0x59e80c60f490a52d499c333b06414e546b0a971d63a1d6a15d46e30ee7b958c4","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T04:53:37.125Z] Transaction saved successfully "a336f379-c008-4900-9e5e-8b3ba5c55a8e"
+[2026-02-11T04:53:37.132Z] POST /api/groups action=update "ca6b866c-3648-4e75-8a4d-b8282b9e1df1"
+[2026-02-11T04:53:37.134Z] Groups updated successfully 
+[2026-02-11T04:53:53.316Z] POST /api/groups action=update "ca6b866c-3648-4e75-8a4d-b8282b9e1df1"
+[2026-02-11T04:53:53.319Z] Groups updated successfully 
+[2026-02-11T05:11:10.370Z] POST /api/groups action=create "2fbe9a98-45a3-4f7c-8f4d-2c21cdf4945a"
+[2026-02-11T05:11:10.372Z] Groups updated successfully 
+[2026-02-11T05:11:15.414Z] POST /api/groups action=update "2fbe9a98-45a3-4f7c-8f4d-2c21cdf4945a"
+[2026-02-11T05:11:15.415Z] Groups updated successfully 
+[2026-02-11T05:11:34.743Z] POST /api/groups action=update "2fbe9a98-45a3-4f7c-8f4d-2c21cdf4945a"
+[2026-02-11T05:11:34.745Z] Groups updated successfully 
+[2026-02-11T05:11:34.789Z] POST /api/transactions received {"id":"99338b80-164a-4c6e-bfce-e97836bd9169","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"16","currency":"USDC","timestamp":1770786694733,"hash":"0x6a26c9e7b333fe26367d40db0418b036b5b6a049e9b3f9271474c1a3406f3a15","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T05:11:34.792Z] Transaction saved successfully "99338b80-164a-4c6e-bfce-e97836bd9169"
+[2026-02-11T05:11:45.184Z] POST /api/groups action=update "2fbe9a98-45a3-4f7c-8f4d-2c21cdf4945a"
+[2026-02-11T05:11:45.186Z] Groups updated successfully 
+[2026-02-11T05:15:41.479Z] POST /api/groups action=create "245374fe-0328-460f-a088-91d19a07c7f5"
+[2026-02-11T05:15:41.480Z] Groups updated successfully 
+[2026-02-11T05:15:46.959Z] POST /api/groups action=update "245374fe-0328-460f-a088-91d19a07c7f5"
+[2026-02-11T05:15:46.960Z] Groups updated successfully 
+[2026-02-11T05:16:06.537Z] POST /api/transactions received {"id":"047da378-8508-4542-b16d-92d774a4bacd","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"6","currency":"USDC","timestamp":1770786966526,"hash":"0xf64703ca56a7509ce14c4b0a5789a68f942e42fed1588c0fb7169633a8e1a73c","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T05:16:06.539Z] Transaction saved successfully "047da378-8508-4542-b16d-92d774a4bacd"
+[2026-02-11T05:16:06.548Z] POST /api/groups action=update "245374fe-0328-460f-a088-91d19a07c7f5"
+[2026-02-11T05:16:06.549Z] Groups updated successfully 
+[2026-02-11T05:18:27.261Z] POST /api/groups action=update "245374fe-0328-460f-a088-91d19a07c7f5"
+[2026-02-11T05:18:27.263Z] Groups updated successfully 
+[2026-02-11T05:18:35.362Z] POST /api/groups action=create "d8aae02c-2e9d-4c8c-8d54-1fc48a643d12"
+[2026-02-11T05:18:35.364Z] Groups updated successfully 
+[2026-02-11T05:18:41.060Z] POST /api/groups action=update "d8aae02c-2e9d-4c8c-8d54-1fc48a643d12"
+[2026-02-11T05:18:41.061Z] Groups updated successfully 
+[2026-02-11T05:19:00.767Z] POST /api/transactions received {"id":"074ced74-c0f0-4482-99f4-e45c4798a66d","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"5.5","currency":"USDC","timestamp":1770787140758,"hash":"0x79f20bf987911180f10a15bc2171ace18a72cbc9987d95cc43ae1ae3cfa115da","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com"}
+[2026-02-11T05:19:00.768Z] Transaction saved successfully "074ced74-c0f0-4482-99f4-e45c4798a66d"
+[2026-02-11T05:19:00.778Z] POST /api/groups action=update "d8aae02c-2e9d-4c8c-8d54-1fc48a643d12"
+[2026-02-11T05:19:00.780Z] Groups updated successfully 
+[2026-02-11T05:19:12.644Z] POST /api/groups action=update "d8aae02c-2e9d-4c8c-8d54-1fc48a643d12"
+[2026-02-11T05:19:12.645Z] Groups updated successfully 
+[2026-02-11T05:27:41.772Z] POST /api/groups action=create "2c19b523-2fc7-492e-a04d-a58e68208aeb"
+[2026-02-11T05:27:41.773Z] Groups updated successfully 
+[2026-02-11T05:27:48.228Z] POST /api/groups action=update "2c19b523-2fc7-492e-a04d-a58e68208aeb"
+[2026-02-11T05:27:48.229Z] Groups updated successfully 
+[2026-02-11T05:28:14.064Z] POST /api/transactions received {"id":"6a67da69-3b29-4b21-a398-ba5569546746","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"22","currency":"USDC","timestamp":1770787694054,"hash":"0x7738763eb127fbd72d44469b49cf6d5f4fd4af41757197c151de5e34f836bff8","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"2c19b523-2fc7-492e-a04d-a58e68208aeb"}
+[2026-02-11T05:28:14.066Z] Transaction saved successfully "6a67da69-3b29-4b21-a398-ba5569546746"
+[2026-02-11T05:28:14.076Z] POST /api/groups action=update "2c19b523-2fc7-492e-a04d-a58e68208aeb"
+[2026-02-11T05:28:14.079Z] Groups updated successfully 
+[2026-02-11T05:28:30.160Z] POST /api/groups action=update "2c19b523-2fc7-492e-a04d-a58e68208aeb"
+[2026-02-11T05:28:30.161Z] Groups updated successfully 
+[2026-02-11T05:31:59.799Z] POST /api/groups action=create "27f52351-cd60-4bcc-822b-0cbe4ac25f37"
+[2026-02-11T05:31:59.800Z] Groups updated successfully 
+[2026-02-11T05:32:05.731Z] POST /api/groups action=update "27f52351-cd60-4bcc-822b-0cbe4ac25f37"
+[2026-02-11T05:32:05.734Z] Groups updated successfully 
+[2026-02-11T05:32:24.055Z] POST /api/transactions received {"id":"281778d3-bd5e-487a-8a53-2761e7e2d4c8","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"38.5","currency":"USDC","timestamp":1770787944042,"hash":"0xc489d4bfb7a0ed839afff33f8418347c8e324c82422f25ee5a5d3d734182e71b","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"27f52351-cd60-4bcc-822b-0cbe4ac25f37"}
+[2026-02-11T05:32:24.057Z] Transaction saved successfully "281778d3-bd5e-487a-8a53-2761e7e2d4c8"
+[2026-02-11T05:32:24.068Z] POST /api/groups action=update "27f52351-cd60-4bcc-822b-0cbe4ac25f37"
+[2026-02-11T05:32:24.069Z] Groups updated successfully 
+[2026-02-11T05:32:25.731Z] POST /api/groups action=update "27f52351-cd60-4bcc-822b-0cbe4ac25f37"
+[2026-02-11T05:32:25.733Z] Groups updated successfully 
+[2026-02-11T05:35:03.361Z] POST /api/groups action=create "e2bd5d47-adb2-436d-a687-734b77f7fbac"
+[2026-02-11T05:35:03.362Z] Groups updated successfully 
+[2026-02-11T05:35:09.201Z] POST /api/groups action=update "e2bd5d47-adb2-436d-a687-734b77f7fbac"
+[2026-02-11T05:35:09.203Z] Groups updated successfully 
+[2026-02-11T05:35:25.826Z] POST /api/transactions received {"id":"2f207f34-1e36-457c-b298-39b8cbe850e9","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"11.5","currency":"USDC","timestamp":1770788125817,"hash":"0xcee8561596545de265d46012296ba3dad3dacc3153ea96f8044f1ee417b8512c","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"e2bd5d47-adb2-436d-a687-734b77f7fbac"}
+[2026-02-11T05:35:25.828Z] Transaction saved successfully "2f207f34-1e36-457c-b298-39b8cbe850e9"
+[2026-02-11T05:35:25.836Z] POST /api/groups action=update "e2bd5d47-adb2-436d-a687-734b77f7fbac"
+[2026-02-11T05:35:25.838Z] Groups updated successfully 
+[2026-02-11T05:36:31.473Z] POST /api/groups action=update "e2bd5d47-adb2-436d-a687-734b77f7fbac"
+[2026-02-11T05:36:31.475Z] Groups updated successfully 
+[2026-02-11T05:40:16.161Z] POST /api/groups action=create "ce2f4bfa-1e23-4e40-af89-aacd778e0f60"
+[2026-02-11T05:40:16.163Z] Groups updated successfully 
+[2026-02-11T05:40:23.678Z] POST /api/groups action=update "ce2f4bfa-1e23-4e40-af89-aacd778e0f60"
+[2026-02-11T05:40:23.679Z] Groups updated successfully 
+[2026-02-11T05:40:50.810Z] POST /api/transactions received {"id":"ae9ad0c3-000e-48b0-b0a3-5fd0bf39087d","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"16.5","currency":"USDC","timestamp":1770788450804,"hash":"0xd83b42b5a870911a2b5dc80b73779ed334e3729ffe404df0bba5d900c00dea25","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"ce2f4bfa-1e23-4e40-af89-aacd778e0f60"}
+[2026-02-11T05:40:50.812Z] Transaction saved successfully "ae9ad0c3-000e-48b0-b0a3-5fd0bf39087d"
+[2026-02-11T05:41:26.231Z] POST /api/transactions received {"id":"83700df1-29a6-4947-99ab-119e3d94b264","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"16.5","currency":"USDC","timestamp":1770788486223,"hash":"0xc09bceda972bf10fbd6302bef3df6d5fc1676501aeef42ed11ca4930e8dba94a","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"ce2f4bfa-1e23-4e40-af89-aacd778e0f60"}
+[2026-02-11T05:41:26.233Z] Transaction saved successfully "83700df1-29a6-4947-99ab-119e3d94b264"
+[2026-02-11T16:01:00.792Z] POST /api/groups action=create "44a73e2b-6843-45b6-b719-f41427a3c079"
+[2026-02-11T16:01:00.897Z] Groups updated successfully 
+[2026-02-11T16:01:08.197Z] POST /api/groups action=update "44a73e2b-6843-45b6-b719-f41427a3c079"
+[2026-02-11T16:01:08.199Z] Groups updated successfully 
+[2026-02-11T16:01:28.638Z] POST /api/transactions received {"id":"cba80d71-be03-4112-9591-0b976e7b78e5","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"7","currency":"USDC","timestamp":1770825688628,"hash":"0xb3c14346c94b6f1fb18d617d50c7629d203bccb2823baa6c60e82c3e558fec44","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"44a73e2b-6843-45b6-b719-f41427a3c079"}
+[2026-02-11T16:01:28.640Z] Transaction saved successfully "cba80d71-be03-4112-9591-0b976e7b78e5"
+[2026-02-11T16:06:30.358Z] POST /api/groups action=delete "44a73e2b-6843-45b6-b719-f41427a3c079"
+[2026-02-11T16:06:30.359Z] Groups updated successfully 
+[2026-02-11T16:06:33.365Z] POST /api/groups action=create "3870fbbf-ced2-46ce-b491-6274b90e5d8e"
+[2026-02-11T16:06:33.366Z] Groups updated successfully 
+[2026-02-11T16:06:43.928Z] POST /api/groups action=delete "3870fbbf-ced2-46ce-b491-6274b90e5d8e"
+[2026-02-11T16:06:43.930Z] Groups updated successfully 
+[2026-02-11T16:06:46.531Z] POST /api/groups action=create "8ff6b987-6676-41e6-9539-451c03a9487a"
+[2026-02-11T16:06:46.533Z] Groups updated successfully 
+[2026-02-11T16:06:52.460Z] POST /api/groups action=update "8ff6b987-6676-41e6-9539-451c03a9487a"
+[2026-02-11T16:06:52.462Z] Groups updated successfully 
+[2026-02-11T16:07:13.351Z] POST /api/transactions received {"id":"d27a04ec-7165-4a32-904e-96e1efca1bca","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"5","currency":"USDC","timestamp":1770826033338,"hash":"0x1f3553cc7700285278eef71d354a531f9e4df9458d64751d6caff62f6dc024de","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"8ff6b987-6676-41e6-9539-451c03a9487a"}
+[2026-02-11T16:07:13.353Z] Transaction saved successfully "d27a04ec-7165-4a32-904e-96e1efca1bca"
+[2026-02-11T16:09:20.368Z] POST /api/groups action=delete "8ff6b987-6676-41e6-9539-451c03a9487a"
+[2026-02-11T16:09:20.370Z] Groups updated successfully 
+[2026-02-11T16:09:24.785Z] POST /api/groups action=create "8bc039a1-7cda-4fd4-91e2-ed1401dbbf0a"
+[2026-02-11T16:09:24.786Z] Groups updated successfully 
+[2026-02-11T16:09:29.533Z] POST /api/groups action=update "8bc039a1-7cda-4fd4-91e2-ed1401dbbf0a"
+[2026-02-11T16:09:29.535Z] Groups updated successfully 
+[2026-02-11T16:09:48.297Z] POST /api/transactions received {"id":"d7ba048a-5e1e-4bfe-8f2f-908e5a9f8767","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"7","currency":"USDC","timestamp":1770826188290,"hash":"0x0e2d2f956185ecc64802d6f56a1af7af6f8b7c4d3ae85e01c3e307800179d994","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"8bc039a1-7cda-4fd4-91e2-ed1401dbbf0a"}
+[2026-02-11T16:09:48.299Z] Transaction saved successfully "d7ba048a-5e1e-4bfe-8f2f-908e5a9f8767"
+[2026-02-11T16:13:44.340Z] POST /api/groups action=delete "8bc039a1-7cda-4fd4-91e2-ed1401dbbf0a"
+[2026-02-11T16:13:44.342Z] Groups updated successfully 
+[2026-02-11T16:13:47.808Z] POST /api/groups action=create "b5453236-7d56-492a-85c9-6157f42804f4"
+[2026-02-11T16:13:47.809Z] Groups updated successfully 
+[2026-02-11T16:13:54.323Z] POST /api/groups action=update "b5453236-7d56-492a-85c9-6157f42804f4"
+[2026-02-11T16:13:54.324Z] Groups updated successfully 
+[2026-02-11T16:14:17.308Z] POST /api/transactions received {"id":"d6b3fefe-280a-4416-91ac-9d5388ca6ef7","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"6","currency":"USDC","timestamp":1770826457299,"hash":"0xa858e83d4d493d1b2acd5fa366ce14c7be89547c72c6491c3d108bbfdb0a35b8","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"b5453236-7d56-492a-85c9-6157f42804f4"}
+[2026-02-11T16:14:17.310Z] Transaction saved successfully "d6b3fefe-280a-4416-91ac-9d5388ca6ef7"
+[2026-02-11T16:18:43.756Z] POST /api/groups action=create "cb63f45a-2adc-4887-8168-e80390a1ebff"
+[2026-02-11T16:18:43.757Z] Groups updated successfully 
+[2026-02-11T16:18:49.192Z] POST /api/groups action=update "cb63f45a-2adc-4887-8168-e80390a1ebff"
+[2026-02-11T16:18:49.195Z] Groups updated successfully 
+[2026-02-11T16:18:58.977Z] POST /api/groups action=delete "b5453236-7d56-492a-85c9-6157f42804f4"
+[2026-02-11T16:18:58.978Z] Groups updated successfully 
+[2026-02-11T16:19:09.949Z] POST /api/transactions received {"id":"d2dec268-9797-497a-8b36-ea8a60905963","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"3.5","currency":"USDC","timestamp":1770826749940,"hash":"0x78f569e0601be22bcc2a2e7c158d3f76a60186b34ab409ea947571accd4208c8","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"cb63f45a-2adc-4887-8168-e80390a1ebff"}
+[2026-02-11T16:19:09.951Z] Transaction saved successfully "d2dec268-9797-497a-8b36-ea8a60905963"
+[2026-02-11T16:19:09.961Z] POST /api/groups action=update "cb63f45a-2adc-4887-8168-e80390a1ebff"
+[2026-02-11T16:19:09.962Z] Groups updated successfully 
+[2026-02-11T16:19:13.190Z] POST /api/groups action=update "cb63f45a-2adc-4887-8168-e80390a1ebff"
+[2026-02-11T16:19:13.192Z] Groups updated successfully 
+[2026-02-11T16:24:26.597Z] POST /api/groups action=create "b9c9e1db-1db8-437a-8235-d49d4ff3dd54"
+[2026-02-11T16:24:26.598Z] Groups updated successfully 
+[2026-02-11T17:38:47.844Z] POST /api/groups action=update "b9c9e1db-1db8-437a-8235-d49d4ff3dd54"
+[2026-02-11T17:38:47.846Z] Groups updated successfully 
+[2026-02-11T17:39:17.071Z] POST /api/transactions received {"id":"458503a3-bbfa-4506-8a0f-db6ed53627ff","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"7.5","currency":"USDC","timestamp":1770831557061,"hash":"0xdd6afabf50ece1d2b703756cfa68e24b75847e7b4924252ef593a00de0ff6852","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"b9c9e1db-1db8-437a-8235-d49d4ff3dd54"}
+[2026-02-11T17:39:17.073Z] Transaction saved successfully "458503a3-bbfa-4506-8a0f-db6ed53627ff"
+[2026-02-11T17:39:17.082Z] POST /api/groups action=update "b9c9e1db-1db8-437a-8235-d49d4ff3dd54"
+[2026-02-11T17:39:17.084Z] Groups updated successfully 
+[2026-02-11T17:39:20.191Z] POST /api/groups action=update "b9c9e1db-1db8-437a-8235-d49d4ff3dd54"
+[2026-02-11T17:39:20.192Z] Groups updated successfully 
+[2026-02-11T17:42:14.782Z] POST /api/groups action=create "d0c498da-51dd-4bf4-a19d-ffc96f3810b4"
+[2026-02-11T17:42:14.783Z] Groups updated successfully 
+[2026-02-11T17:42:18.817Z] POST /api/groups action=update "d0c498da-51dd-4bf4-a19d-ffc96f3810b4"
+[2026-02-11T17:42:18.819Z] Groups updated successfully 
+[2026-02-11T17:42:45.274Z] POST /api/transactions received {"id":"29e1782c-8984-4a44-97f6-132f079c06b4","from":"0x444ecb81bc64968b47d2669f14562f055d30ae98","to":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","amount":"22","currency":"USDC","timestamp":1770831765266,"hash":"0xfc2449063a2a8037e77e44132db67838ac75222bcaac2b7a583946633fe09400","description":"Group Settlement","fromEmail":"voltigeurct1234@gmail.com","toEmail":"cansecilmis20@gmail.com","groupId":"d0c498da-51dd-4bf4-a19d-ffc96f3810b4"}
+[2026-02-11T17:42:45.275Z] Transaction saved successfully "29e1782c-8984-4a44-97f6-132f079c06b4"
+[2026-02-11T17:42:45.283Z] POST /api/groups action=update "d0c498da-51dd-4bf4-a19d-ffc96f3810b4"
+[2026-02-11T17:42:45.284Z] Groups updated successfully 
+[2026-02-11T17:44:25.278Z] POST /api/groups action=update "d0c498da-51dd-4bf4-a19d-ffc96f3810b4"
+[2026-02-11T17:44:25.280Z] Groups updated successfully 
+[2026-02-11T17:44:25.290Z] POST /api/groups action=update "d0c498da-51dd-4bf4-a19d-ffc96f3810b4"
+[2026-02-11T17:44:25.292Z] Groups updated successfully 
+[2026-02-11T17:44:53.444Z] POST /api/groups action=create "4c19bd24-cfac-409d-9d3f-fa86450df20a"
+[2026-02-11T17:44:53.445Z] Groups updated successfully 
+[2026-02-11T17:44:58.546Z] POST /api/groups action=update "4c19bd24-cfac-409d-9d3f-fa86450df20a"
+[2026-02-11T17:44:58.548Z] Groups updated successfully 
+[2026-02-11T17:45:16.971Z] POST /api/transactions received {"id":"b53eadf9-717b-404b-870b-5e1eefda8614","from":"0x3d9cf2adf91db2204c659f449e1a6cfbe1fa6edd","to":"0x444ecb81bc64968b47d2669f14562f055d30ae98","amount":"111","currency":"USDC","timestamp":1770831916960,"hash":"0xdb6384adde0180cd2b434f585e955555e93db76dde83749f3659d744adb45abd","description":"Group Settlement","fromEmail":"cansecilmis20@gmail.com","toEmail":"voltigeurct1234@gmail.com","groupId":"4c19bd24-cfac-409d-9d3f-fa86450df20a"}
+[2026-02-11T17:45:16.973Z] Transaction saved successfully "b53eadf9-717b-404b-870b-5e1eefda8614"
+[2026-02-11T17:45:16.983Z] POST /api/groups action=update "4c19bd24-cfac-409d-9d3f-fa86450df20a"
+[2026-02-11T17:45:16.985Z] Groups updated successfully 
+[2026-02-11T17:45:17.184Z] POST /api/groups action=update "4c19bd24-cfac-409d-9d3f-fa86450df20a"
+[2026-02-11T17:45:17.185Z] Groups updated successfully 
+[2026-02-11T17:45:20.317Z] POST /api/groups action=update "4c19bd24-cfac-409d-9d3f-fa86450df20a"
+[2026-02-11T17:45:20.319Z] Groups updated successfully 
