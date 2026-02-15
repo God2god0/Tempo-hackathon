@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import {
     Dialog,
@@ -68,16 +68,14 @@ export function SettleUpDialog({ amount, recipientAddress, recipientEmail, payer
             }],
             functionName: 'transfer',
             args: [recipientAddress as `0x${string}`, parseUnits(amount.toString(), 6)],
-            // Hardcode gas fees to satisfy Tempo Moderato minimums (min base fee is ~20 Gwei)
-            maxFeePerGas: BigInt(25000000000), // 25 Gwei
-            maxPriorityFeePerGas: BigInt(25000000000), // 25 Gwei (Tempo often requires priority == max for instant inclusion)
+
         }, {
-            onSuccess: (txHash) => {
+            onSuccess: (txHash: string) => {
                 toast.success("Transaction sent! Waiting for confirmation...");
 
                 // Optimistic Save
                 // ROBUST ADDRESS CAPTURE: Priority: 1. Connected Wallet (from list), 2. User Object
-                const activeWallet = wallets.find(w => w.address) || wallets[0];
+                const activeWallet = wallets.find((w: any) => w.address) || wallets[0];
                 const rawPayerAddress = activeWallet?.address || user?.wallet?.address;
 
                 if (rawPayerAddress) {
@@ -105,7 +103,7 @@ export function SettleUpDialog({ amount, recipientAddress, recipientEmail, payer
                     setOpen(false); // Close dialog immediately on send
                 }
             },
-            onError: (error) => {
+            onError: (error: any) => {
                 toast.dismiss();
                 toast.error(`Payment failed: ${error.message.split('\n')[0]}`);
             },
@@ -160,7 +158,7 @@ export function SettleUpDialog({ amount, recipientAddress, recipientEmail, payer
                             id="memo"
                             placeholder="e.g., Dinner last night 🍕"
                             value={memo}
-                            onChange={(e) => setMemo(e.target.value)}
+                            onChange={(e: React.ChangeEvent<HTMLInputElement>) => setMemo(e.target.value)}
                         />
                         <p className="text-[10px] text-muted-foreground">
                             This note will be saved on-chain forever.

@@ -55,7 +55,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
                         createOnLogin: 'users-without-wallets',
                     },
                 },
-                loginMethods: ['email', 'sms'],
+                loginMethods: ['email'],
                 defaultChain: tempoTestnet,
                 supportedChains: [tempoTestnet],
             }}

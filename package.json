@@ -35,15 +35,28 @@
     "tailwindcss": "^3.4.19",
     "tailwindcss-animate": "^1.0.7",
     "tempo.ts": "^0.14.0",
-    "viem": "^2.45.2",
-    "wagmi": "^3.4.2"
+    "viem": "^2.45.3",
+    "wagmi": "^3.4.3"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/connect": "^3.4.38",
+    "@types/debug": "^4.1.12",
+    "@types/emscripten": "^1.41.5",
+    "@types/estree": "^1.0.8",
+    "@types/json-schema": "^7.0.15",
+    "@types/json5": "^0.0.30",
+    "@types/lodash": "^4.17.23",
+    "@types/ms": "^2.1.0",
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/stylis": "^4.2.7",
+    "@types/trusted-types": "^2.0.7",
+    "@types/uuid": "^10.0.0",
+    "@types/ws": "^8.18.1",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
-    "typescript": "^5"
+    "typescript": "^5.9.3",
+    "vercel": "^50.17.1"
   }
 }

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import QRCode from 'react-qr-code';
@@ -107,10 +107,9 @@ export function FastPayView({ userAddress }: FastPayViewProps) {
             }],
             functionName: 'transfer',
             args: [scannedData.recipient as `0x${string}`, parseUnits(scannedData.amount.toString(), 6)],
-            maxFeePerGas: BigInt(25000000000),
-            maxPriorityFeePerGas: BigInt(25000000000),
+
         }, {
-            onError: (error) => {
+            onError: (error: any) => {
                 console.error("Payment failed", error);
                 toast.error(`Payment failed: ${error.message.split('\n')[0]}`);
             }
@@ -154,7 +153,7 @@ export function FastPayView({ userAddress }: FastPayViewProps) {
                                                 <Input
                                                     type="number"
                                                     value={amount}
-                                                    onChange={(e) => setAmount(e.target.value)}
+                                                    onChange={(e: React.ChangeEvent<HTMLInputElement>) => setAmount(e.target.value)}
                                                     className="w-full max-w-[200px] md:max-w-[300px] text-center text-5xl md:text-7xl font-light border-none shadow-none focus-visible:ring-0 p-0 text-foreground placeholder:text-muted-foreground/20 bg-transparent tracking-tight h-auto caret-primary selection:bg-primary/20"
                                                     placeholder="0"
                                                 />
@@ -205,7 +204,7 @@ export function FastPayView({ userAddress }: FastPayViewProps) {
                                 <div className="space-y-6 animate-in slide-in-from-bottom-2 fade-in duration-300">
                                     <div className="aspect-square rounded-3xl overflow-hidden border-4 border-muted shadow-inner bg-muted relative group">
                                         <Scanner
-                                            onScan={(detectedCodes) => {
+                                            onScan={(detectedCodes: any[]) => {
                                                 if (detectedCodes && detectedCodes.length > 0) {
                                                     handleScan(detectedCodes[0].rawValue);
                                                 }
