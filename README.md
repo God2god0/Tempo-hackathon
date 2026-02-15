@@ -1,30 +1,41 @@
-# Qwick - Instant Group Settlements on Tempo
+# Qwick - Next-Gen Crypto POS & Expense Manager
 
-**Qwick** is a decentralized expense splitting and settlement application built for the **Tempo Hackathon**. It leverages the speed and low cost of the Tempo blockchain to allow friends to track expenses and settle debts instantly using stablecoins.
+**Qwick** is a dual-mode financial application built on the **Tempo Blockchain** that bridges the gap between personal finance and merchant payments. It replaces expensive credit card infrastructure with instant, near-zero fee stablecoin transactions.
 
-![Qwick App](https://via.placeholder.com/800x400?text=Qwick+App+Preview)
+![Qwick App](https://via.placeholder.com/800x400?text=Qwick+POS+Preview)
 
-## 🚀 Key Features
+## 💡 The Problem
 
-*   **Group Expense Tracking:** Create groups, add friends, and seamlessy track shared expenses.
-*   **Instant Settlements:** Settle your debts instantly using `pathUSD` (USDC) on Tempo Testnet.
-*   **Crypto-Native:** Built with **Privy** for embedded wallets and **Wagmi** for blockchain interactions.
-*   **Gas-Optimized:** Designed to work efficiently with Tempo's stablecoin gas fee model.
-*   **QR Code Payments:** "Fast Pay" mode for quick, in-person settlements via QR codes.
+*   **Merchants** pay **2.9% + 30¢** per transaction to credit card processors.
+*   **Users** wait days for bank settlements.
+*   **Group expenses** are messy and hard to track.
 
-## 🛠️ Tech Stack
+## 🚀 The Solution: Dual-Mode Architecture
 
-*   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
-*   **Languages:** TypeScript
-*   **Styling:** Tailwind CSS, Shadcn/UI
-*   **Blockchain:** [Tempo Testnet (Moderato)](https://docs.tempo.xyz/)
-*   **Auth & Wallets:** [Privy](https://privy.io/)
-*   **Web3 Hooks:** [Wagmi](https://wagmi.sh/) / [Viem](https://viem.sh/)
+Qwick offers two distinct modes in a single application:
+
+### 1. 🏪 Merchant Mode (The "Square" Killer)
+*   **Instant POS:** Turn any tablet or phone into a Point-of-Sale terminal.
+*   **Dynamic QR Codes:** Enter an amount (e.g., "$12.50" for a latte at *Joe's Coffee*), generate a QR code, and get paid instantly.
+*   **Zero-Fee Revolution:** Instead of losing 3% to Visa/Mastercard, merchants pay **<$0.001** in gas fees on Tempo.
+*   **Instant Settlement:** Funds arrive in the merchant's wallet in seconds, not days.
+
+### 2. 👤 Personal Mode (The "Splitwise" Killer)
+*   **Group Splitting:** Track shared expenses with friends (trips, dinners, rent).
+*   **Direct Settlement:** Settle debts instantly using `pathUSD` (USDC) without leaving the app.
+*   **Social Graph:** Add friends and see your complete transaction history.
+
+## 🛠️ Tech Stack & Architecture
+
+*   **Blockchain:** **Tempo Testnet (Moderato)** - Chosen for high throughput and stablecoin-native gas.
+*   **Frontend:** Next.js 14, Tailwind CSS, Shadcn/UI for a premium mobile-first experience.
+*   **Smart Contracts:** Standard ERC-20 (`pathUSD`) for payment settlement.
+*   **Wallet Integration:** **Privy** for seamless, social-login based embedded wallets.
+*   **Data Layer:** **Wagmi** & **Viem** for robust blockchain hooks.
 
 ## 📦 Getting Started
 
 ### Prerequisites
-
 *   Node.js 18+
 *   npm or pnpm
 
@@ -52,16 +63,11 @@
     npm run dev
     ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Demo & Source
 
-## 🔗 Deployment
-
-This project is optimized for deployment on [Vercel](https://vercel.com).
-
-```bash
-npx vercel --prod
-```
+*   **Live Deployment:** [https://qwick-neon.vercel.app](https://qwick-neon.vercel.app)
+*   **Source Code:** [https://github.com/God2god0/Tempo-hackathon](https://github.com/God2god0/Tempo-hackathon)
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+MIT License. Built for the Tempo Hackathon.
