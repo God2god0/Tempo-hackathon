@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Qwick - Instant Group Settlements on Tempo
 
-## Getting Started
+**Qwick** is a decentralized expense splitting and settlement application built for the **Tempo Hackathon**. It leverages the speed and low cost of the Tempo blockchain to allow friends to track expenses and settle debts instantly using stablecoins.
 
-First, run the development server:
+![Qwick App](https://via.placeholder.com/800x400?text=Qwick+App+Preview)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Key Features
+
+*   **Group Expense Tracking:** Create groups, add friends, and seamlessy track shared expenses.
+*   **Instant Settlements:** Settle your debts instantly using `pathUSD` (USDC) on Tempo Testnet.
+*   **Crypto-Native:** Built with **Privy** for embedded wallets and **Wagmi** for blockchain interactions.
+*   **Gas-Optimized:** Designed to work efficiently with Tempo's stablecoin gas fee model.
+*   **QR Code Payments:** "Fast Pay" mode for quick, in-person settlements via QR codes.
+
+## 🛠️ Tech Stack
+
+*   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+*   **Languages:** TypeScript
+*   **Styling:** Tailwind CSS, Shadcn/UI
+*   **Blockchain:** [Tempo Testnet (Moderato)](https://docs.tempo.xyz/)
+*   **Auth & Wallets:** [Privy](https://privy.io/)
+*   **Web3 Hooks:** [Wagmi](https://wagmi.sh/) / [Viem](https://viem.sh/)
+
+## 📦 Getting Started
+
+### Prerequisites
+
+*   Node.js 18+
+*   npm or pnpm
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/God2god0/Tempo-hackathon.git
+    cd Tempo-hackathon
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Set up Environment Variables:**
+    Create a `.env.local` file and add your Privy App ID:
+    ```env
+    NEXT_PUBLIC_PRIVY_APP_ID=your_privy_app_id
+    ```
+
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔗 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is optimized for deployment on [Vercel](https://vercel.com).
 
-## Learn More
+```bash
+npx vercel --prod
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.
